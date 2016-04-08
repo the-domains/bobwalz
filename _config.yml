@@ -1,0 +1,28 @@
+name: bobwalz
+favicon: null
+layout_spectrum: 0.8865139337722212
+typography_spectrum: 0.9332320673856884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3364188955165446
+  lightness: 0.738470607670024
+  saturation: 0.6048758726101369
+  rhythmicContrast: 0.07520543388091028
+purpose: []
